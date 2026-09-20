@@ -113,3 +113,4 @@ curl -X POST http://localhost:8080/api/hotel/book \
 - **Compensation**: Gọi ngược lại các service đã thành công
 - **Timeout**: 5 giây cho mỗi call
 - **Retry**: 2 lần với exponential backoff
+# session14-b5
